@@ -1,44 +1,25 @@
-# Hi 👋, I'm Aweis Haji  
-### Passionate Creative | Data Analyst in Progress | Digital Marketing Enthusiast  
+<h1 align="center">Hi 👋, I'm Aweis Haji</h1>
+<h3 align="center">I'm passionately navigating the fields of Data Analysis and Digital Marketing. Each day brings new data to explore and new strategies to test. I’m here to learn, contribute, and make a meaningful impact.</h3>
 
-I am a multi-skilled professional with a unique blend of **graphic design**, **video editing**, and **digital marketing** expertise. Currently, I am diving deep into **data analysis**, combining creativity with analytical insights to drive meaningful impact. My passion lies in storytelling through visuals, engaging audiences, and using data-driven strategies to solve real-world problems.  
+- 🔭 I’m currently working on [Freelancer](https://www.linkedin.com/in/aweis-ahmed-sabria-795b24224/)
 
----
+- 🌱 I’m currently learning **Data analyst**
 
-## 🔭 Current Projects  
-- Freelancing on [LinkedIn](https://www.linkedin.com/in/aweis-ahmed-sabria-795b24224/)  
-- Exploring the intersection of **Health Science** and **Data Analytics**  
+- 👯 I’m looking to collaborate on **Build Health science**
 
----
+- 🤝 I’m looking for help with **Data analtics**
 
-## 🌱 What I'm Learning  
-- Advanced **Data Analysis** techniques  
-- Tools like **Excel**, **SQL**, and **Python** to uncover actionable insights  
+- 👨‍💻 All of my projects are available at [Bidaaye.damk](Bidaaye.damk)
 
----
+- 💬 Ask me about **excel,sql, python**
 
-## 👯 Collaboration Goals  
-- Building impactful projects in **Health Science**  
-- Contributing to innovative solutions in **Data Analytics**  
+- 📫 How to reach me **Bidaaye.damk@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 💬 Ask Me About  
-- **Graphic Design:** Creating captivating visuals  
-- **Excel, SQL, Python:** The foundations of data analysis  
-- **Digital Marketing:** Strategies that engage and convert  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
-
-## 👨‍💻 Portfolio  
-Check out my latest work at **[Bidaaye.damk](https://Bidaaye.damk)**  
-
----
-
-## 📫 Let's Connect!  
-📧 Email: **Bidaaye.damk@gmail.com**  
-
----
-
-## ⚡ Fun Fact  
-I'm blending creativity with data every day—whether designing visuals, analyzing trends, or exploring new strategies to engage audiences.  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-bidaaye&show_icons=true&locale=en&layout=compact" alt="eng-bidaaye" /></p>
