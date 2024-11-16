@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Eng-Bidaaye/Aweis-Haji-Port/blob/80f1b59e2a7ffcb7e82fc6ddfb54ecebb608d764/profile.jpg" alt="#" width="150" style="border-radius: 50%;"/>
+  <img src="https://github.com/Eng-Bidaaye/Aweis-Haji-Port/blob/5b95dd4cd71ae429821617af140f1d0deee08745/profile-removebg-preview.png" alt="#" width="150" style="border-radius: 50%;"/>
   <br>
   Hi 👋, I'm Aweis Haji
 </h1>
