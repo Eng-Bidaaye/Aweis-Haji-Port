@@ -8,7 +8,7 @@ I am navigating the fields of Data Analysis and Digital Marketing with enthusias
 ---
 
 - 🔭 **Currently working on**: Freelance projects. Check out my profile on [LinkedIn](https://www.linkedin.com/in/aweis-ahmed-sabria-795b24224/).  
-- 🌱 **Currently learning**: Advanced **Data Analysis** techniques using tools like **Excel**, **SQL**, and **Python**.  
+- 🌱 **Currently learning**: Advanced **Data Analysis** techniques using tools like **Excel**, **SQL**, **Python**, and **Tableau**.  
 - 👯 **Looking to collaborate on**: Building impactful projects in **Health Science** and **Data Analytics**.  
 - 🤝 **Seeking help with**: Expanding expertise in **Data Analytics** and exploring advanced analytical techniques.  
 - 👨‍💻 **My projects**: Available at [Bidaaye.damk](https://Bidaaye.damk).  
@@ -26,18 +26,25 @@ I am navigating the fields of Data Analysis and Digital Marketing with enthusias
 
 ---
 
-
-
-  <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Programming and Scripting -->
+  <!-- Programming and Analytics -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-  
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+  </a>
+
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -66,12 +73,6 @@ I am navigating the fields of Data Analysis and Digital Marketing with enthusias
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
-</p>
-
-
-  
- 
-
 </p>
 
 ---
