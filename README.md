@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aweis Haji</h1>
+<h1 align="center">
+  <img src="https://your-image-link-here.jpg" alt="Aweis Haji" width="150" style="border-radius: 50%;"/>
+  <br>
+  Hi 👋, I'm Aweis Haji
+</h1>
 <h3 align="center">Passionate Data Analyst | Digital Marketer | Creative Visionary</h3>
 
 <p align="center">
