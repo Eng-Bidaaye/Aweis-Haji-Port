@@ -13,7 +13,7 @@ I am navigating the fields of Data Analysis and Digital Marketing with enthusias
 
 - 🔭 **Currently working on**: Freelance projects. Check out my profile on [LinkedIn](https://www.linkedin.com/in/aweis-ahmed-sabria-795b24224/).  
 - 🌱 **Currently learning**: Advanced **Data Analysis** techniques using tools like **Excel**, **SQL**, and **Python**.  
-- 👯 **Looking to collaborate on**: Building impactful projects in **Health Science** and **Data Analytics**.  
+- 👯 **Looking to collaborate on**: Building impactful projects in **Degital amrketing** and **Data Analytics**.  
 - 🤝 **Seeking help with**: Expanding expertise in **Data Analytics** and exploring advanced analytical techniques.  
 - 👨‍💻 **My projects**: Available at [Bidaaye.damk](https://Bidaaye.damk).  
 - 💬 **Ask me about**: Anything related to **Excel**, **SQL**, **Python**, **Graphic Design**, or **Digital Marketing**.  
